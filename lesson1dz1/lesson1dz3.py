@@ -8,6 +8,7 @@ if d < 0:
     print("not roots")
 elif d == 0:
     x = - b / 2 * a
+    print(x)
 else:
     x1 = (-b + math.sqrt(d)) / (2 * a)
     x2 = (-b - math.sqrt(d)) / (2 * a)
