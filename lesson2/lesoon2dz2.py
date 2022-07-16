@@ -9,23 +9,3 @@ else:
     while a != b or a != c:
         print("Я не понимаю, что вы от меня хотите...")
         break
-
-
-
-
-
-
-
-
-#a = 0
-#while a < 7:
-#    print ("A", a)
-#    a +=1
-#    print("the end")
-#number = int(input('Введите целое число от 0 до 9'))
-#while number < 10:
-#    print(number)
-#    number = number + 1
-#print('программа завершина успешно')
-#for i in  "hello, worl":
-#    print(i)
